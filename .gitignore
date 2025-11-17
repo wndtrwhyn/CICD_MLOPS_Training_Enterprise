@@ -1,0 +1,8 @@
+#Menginstriksukan bahwa file file dengan extension dibawah ini Tidak akan dinaikkan ke cloud run
+venv/
+__pycache__/
+models/*.pkl
+models/*.json
+*.pyc
+.env
+.git
